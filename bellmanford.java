@@ -1,4 +1,4 @@
-package program6;
+package bellmanford;
 import java.util.Scanner;
 public class Bellman {
 	public static void bellmanFord(int numvertex,int source,int numedges,int edgemat[][])
