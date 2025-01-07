@@ -1,4 +1,4 @@
-package prg7;
+package computernetworks;
 import java.math.BigInteger;
 import java.util.Random;
 import java.io.*;
